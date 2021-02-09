@@ -5,7 +5,7 @@ import Link from "next/link";
 
 const Overview = () => {
   const overviews = [
-    { content: <a id="rel" href="https://m.facebook.com/">Alaraja</a> },
+    { content: <a id="rel" href="https://cobak.vercel.app/">Alaraja Food Store</a> },
   ];
 
   const overviewList = overviews.map((project, index) => (
