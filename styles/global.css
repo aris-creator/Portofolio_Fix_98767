@@ -16,8 +16,8 @@
 /* General */
 body {
   font-family: arame-thin, serif;
-  background: #0d0d0d;
-  color: #e5e5e5;
+  background: #EE0000;
+  color: #405DE6;
 }
 h1 {
   @apply xl:text-6xl sm:text-5xl text-4xl h-20;
