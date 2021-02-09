@@ -28,9 +28,10 @@ const About = () => {
         <motion.div variants={container} className="md:w-1/2 lg:pl-36">
           {textList}
           <motion.p variants={text_reaveal_fade}>
-            i am 23 years old Born in Surabaya i really like what i learn and learning is my hobby with my partner @Tuan_Putri <a className="text-third">ReactJS</a>,{" "}
+            i am 23 years old Born in Surabaya i really like what i learn and learning is my hobby Learn Code <a className="text-third">React JS</a>,{" "}
             <a className="text-third">Kotlin</a> and{" "}
-            <a className="text-third">Dart</a> .Web Designer By ariselroez_coming_soon.
+            <a className="text-third">Dart</a> .Web Developer,Mobile Developer @Aris_Prasetyo
+
           </motion.p>
         </motion.div>
         <div className="hidden md:block w-1/2">part 2</div>
