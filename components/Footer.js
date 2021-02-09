@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { AiOutlineGithub, AiOutlineLinkedin , AiOutlineFacebook ,AiOutlineInstagram } from "react-icons/ai";
+import { AiOutlineLinkedin, AiOutlineGithub , AiOutlineFacebook ,AiOutlineInstagram } from "react-icons/ai";
 
 const Footer = () => {
   return (
