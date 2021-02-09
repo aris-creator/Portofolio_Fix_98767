@@ -17,7 +17,7 @@
 body {
   font-family: arame-thin, serif;
   background: #EE0000;
-  color: #405DE6;
+  color: #FFFFFF;
 }
 h1 {
   @apply xl:text-6xl sm:text-5xl text-4xl h-20;
